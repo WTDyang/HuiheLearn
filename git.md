@@ -6,7 +6,7 @@
 
 在`github`或`gitee码云`等寻找自己喜欢的资源或者要参与的项目  
 
-## Fork
+## Fork	
 
 将开源项目或者公司项目Fork到自己的仓库
 
@@ -51,3 +51,5 @@
 - 回滚
 - 快捷键设置
 - 等等等
+
+![image-20220901201306586](C:\Users\86188\AppData\Roaming\Typora\typora-user-images\image-20220901201306586.png)
